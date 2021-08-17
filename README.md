@@ -14,3 +14,4 @@ Below is a table of contents linking to every project.
 | [Hidden Search Widget](https://haylzrandom.github.io/50projects-html-css-js/hidden-search-widget/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/hidden-search-widget) |
 | [Blurry Loading](https://haylzrandom.github.io/50projects-html-css-js/blurry-loading/index.html)             | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/blurry-loading)       |
 | [Scroll Animation](https://haylzrandom.github.io/50projects-html-css-js/scroll-animation/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/scroll-animation)     |
+| [Split Landing Page](https://haylzrandom.github.io/50projects-html-css-js/split-landing-page/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/split-landing-page)     |
