@@ -9,3 +9,4 @@ Project | Repo
 [Progress Steps](https://haylzrandom.github.io/50projects-html-css-js/progress-steps/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/progress-steps)
 [Rotating Navigation](https://haylzrandom.github.io/50projects-html-css-js/rotating-navigation/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/rotating-navigation)
 [Hidden Search Widget](https://haylzrandom.github.io/50projects-html-css-js/hidden-search-widget/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/hidden-search-widget)
+[Blurry Loading](https://haylzrandom.github.io/50projects-html-css-js/blurry-loading/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/bloody-loading)
