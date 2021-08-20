@@ -16,3 +16,4 @@ Below is a table of contents linking to every project.
 | [Scroll Animation](https://haylzrandom.github.io/50projects-html-css-js/scroll-animation/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/scroll-animation)     |
 | [Split Landing Page](https://haylzrandom.github.io/50projects-html-css-js/split-landing-page/index.html)     | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/split-landing-page)   |
 | [Form Wave Animation](https://haylzrandom.github.io/50projects-html-css-js/form-wave-animation/index.html)   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/form-wave-animation)  |
+| [Sound Board](https://haylzrandom.github.io/50projects-html-css-js/sound-board/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/sound-board)          |
