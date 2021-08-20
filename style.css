@@ -8,7 +8,10 @@ body {
 	font-family: 'Roboto', sans-serif;
 	height: 100vh;
 	margin: 0;
-	background: #d7dfd6;
+	/* background: #d7dfd6; */
+	background-color: #090c9b;
+	text-align: center;
+	color: #fbfff1;
 }
 
 .container {
@@ -21,7 +24,10 @@ body {
 .projects {
 	display: flex;
 	flex-wrap: wrap;
-	background-color: #4a9396;
+	background-color: #b4c5e4;
+	/* background-color: #4a9396; */
+	margin: auto 10%;
+	padding: 83px;
 }
 
 .project {
@@ -30,6 +36,17 @@ body {
 	align-items: center;
 	justify-content: center;
 	margin: 10px;
+	border: 5px solid #3066be;
+	border-radius: 10px;
+	padding: 15px;
+	background-color: #3066be;
+	/* background-color: #003a26; */
+	box-shadow: 0 8px 8px -4px #3066be;
+	transition: scale 0.5s ease;
+}
+
+.project:hover {
+	transform: scale(1.1);
 }
 
 .project-links {
@@ -41,7 +58,8 @@ body {
 
 .project a {
 	text-decoration: none;
-	color: #003a26;
+	color: #fbfff1;
+	/* color: #003a26; */
 	font-weight: 700;
 	margin-top: 5px;
 	font-size: 18px;
@@ -49,7 +67,8 @@ body {
 }
 
 .project a:hover {
-	color: #c7ded2;
+	/* color: #c7ded2; */
+	color: #3c3744;
 	transition: 0.3s ease-in-out;
 }
 
@@ -60,5 +79,5 @@ a.github-link {
 
 .project-image {
 	width: 200px;
-    height:150px;
+	height: 150px;
 }

@@ -18,3 +18,4 @@ Below is a table of contents linking to every project.
 | [Form Wave Animation](https://haylzrandom.github.io/50projects-html-css-js/form-wave-animation/index.html)   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/form-wave-animation)  |
 | [Sound Board](https://haylzrandom.github.io/50projects-html-css-js/sound-board/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/sound-board)          |
 | [Dad Jokes](https://haylzrandom.github.io/50projects-html-css-js/dad-jokes/index.html)                       | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/dad-jokes)            |
+| [Event Keycodes](https://haylzrandom.github.io/50projects-html-css-js/event-keycodes/index.html)             | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/event-keycodes)       |
