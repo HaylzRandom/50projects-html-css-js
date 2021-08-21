@@ -21,3 +21,4 @@ Below is a table of contents linking to every project.
 | [Event Keycodes](https://haylzrandom.github.io/50projects-html-css-js/event-keycodes/index.html)             | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/event-keycodes)       |
 | [FAQ Collapse](https://haylzrandom.github.io/50projects-html-css-js/faq-collapse/index.html)                 | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/faq-collapse)         |
 | [Random Choice Picker](https://haylzrandom.github.io/50projects-html-css-js/random-choice-picker/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/random-choice-picker) |
+| [Animated Navigation](https://haylzrandom.github.io/50projects-html-css-js/animated-navigation/index.html)   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/animated-navigation)  |
