@@ -27,3 +27,4 @@ Below is a table of contents linking to every project.
 | 17  | [Movie App](https://haylzrandom.github.io/50projects-html-css-js/movie-app/index.html)                       | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/movie-app)            |
 | 18  | [Background Slider](https://haylzrandom.github.io/50projects-html-css-js/background-slider/index.html)       | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/background-slider)    |
 | 19  | [Theme Clock](https://haylzrandom.github.io/50projects-html-css-js/theme-clock/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/theme-clock)          |
+| 20  | [Button Ripple Effect](https://haylzrandom.github.io/50projects-html-css-js/button-ripple-effect/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/button-ripple-effect) |
