@@ -23,3 +23,4 @@ Below is a table of contents linking to every project.
 | [Random Choice Picker](https://haylzrandom.github.io/50projects-html-css-js/random-choice-picker/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/random-choice-picker) |
 | [Animated Navigation](https://haylzrandom.github.io/50projects-html-css-js/animated-navigation/index.html)   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/animated-navigation)  |
 | [Incrementing Counter](https://haylzrandom.github.io/50projects-html-css-js/incrementing-counter/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/incrementing-counter) |
+| [Drink Water](https://haylzrandom.github.io/50projects-html-css-js/drink-water/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/drink-water)          |
