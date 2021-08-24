@@ -31,3 +31,4 @@ Below is a table of contents linking to every project.
 | 21  | [Drag N Drop](https://haylzrandom.github.io/50projects-html-css-js/drag-n-drop/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/drag-n-drop)          |
 | 22  | [Drawing App](https://haylzrandom.github.io/50projects-html-css-js/drawing-app/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/drawing-app)          |
 | 23  | [Kinetic CSS Loader](https://haylzrandom.github.io/50projects-html-css-js/kinetic-css-loader/index.html)     | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/kinetic-css-loader)   |
+| 24  | [Content Placeholder](https://haylzrandom.github.io/50projects-html-css-js/content-placeholder/index.html)   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/content-placeholder)  |
