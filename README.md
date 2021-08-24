@@ -29,3 +29,4 @@ Below is a table of contents linking to every project.
 | 19  | [Theme Clock](https://haylzrandom.github.io/50projects-html-css-js/theme-clock/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/theme-clock)          |
 | 20  | [Button Ripple Effect](https://haylzrandom.github.io/50projects-html-css-js/button-ripple-effect/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/button-ripple-effect) |
 | 21  | [Drag N Drop](https://haylzrandom.github.io/50projects-html-css-js/drag-n-drop/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/drag-n-drop)          |
+| 22  | [Drawing App](https://haylzrandom.github.io/50projects-html-css-js/drawing-app/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/drawing-app)          |
