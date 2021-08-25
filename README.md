@@ -34,3 +34,4 @@ Below is a table of contents linking to every project.
 | 24  | [Content Placeholder](https://haylzrandom.github.io/50projects-html-css-js/content-placeholder/index.html)       | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/content-placeholder)    |
 | 25  | [Sticky Navbar](https://haylzrandom.github.io/50projects-html-css-js/sticky-navbar/index.html)                   | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/sticky-navbar)          |
 | 26  | [Double Vertical Slider](https://haylzrandom.github.io/50projects-html-css-js/double-vertical-slider/index.html) | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/double-vertical-slider) |
+| 27  | [Toast Notification](https://haylzrandom.github.io/50projects-html-css-js/toast-notification/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/toast-notification)     |
