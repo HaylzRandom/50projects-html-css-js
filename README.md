@@ -37,4 +37,5 @@ Below is a table of contents linking to every project.
 | 27  | [Toast Notification](https://haylzrandom.github.io/50projects-html-css-js/toast-notification/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/toast-notification)     |
 | 28  | [Github Profiles](https://haylzrandom.github.io/50projects-html-css-js/github-profiles/index.html)               | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/github-profiles)        |
 | 29  | [Double Heart Click](https://haylzrandom.github.io/50projects-html-css-js/double-heart-click/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/double-heart-click)     |
-| 30  | [Auto Text Effect](https://haylzrandom.github.io/50projects-html-css-js/auto-text-effect/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/auto-text-effect)     |
+| 30  | [Auto Text Effect](https://haylzrandom.github.io/50projects-html-css-js/auto-text-effect/index.html)             | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/auto-text-effect)       |
+| 31  | [Password Generator](https://haylzrandom.github.io/50projects-html-css-js/password-generator/index.html)         | [Repo](https://github.com/HaylzRandom/50projects-html-css-js/tree/main/password-generator)     |
