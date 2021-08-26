@@ -1,20 +1,20 @@
 const poke_container = document.getElementById('poke-container');
 const pokemon_count = 150;
 const colors = {
-	fire: '#FDDFDF',
-	grass: '#DEFDE0',
-	electric: '#FCF7DE',
-	water: '#DEF3FD',
-	ground: '#f4e7da',
-	rock: '#d5d5d4',
-	fairy: '#fceaff',
-	poison: '#98d7a5',
-	bug: '#f8d5a3',
-	dragon: '#97b3e6',
-	psychic: '#eaeda1',
-	flying: '#F5F5F5',
-	fighting: '#E6E0D4',
-	normal: '#F5F5F5',
+	fire: 'rgba(240,128,48,0.8)',
+	grass: 'rgba(120,200,80,0.8)',
+	electric: 'rgba(248,208,48,0.8)',
+	water: 'rgba(104,144,240,0.8)',
+	ground: 'rgba(224,192,104,0.8)',
+	rock: 'rgba(184,160,56,0.8)',
+	fairy: 'rgba(240,182,188,0.8)',
+	poison: 'rgba(160,64,160,0.8)',
+	bug: 'rgba(168,184,32,0.8)',
+	dragon: 'rgba(112,56,248,0.8)',
+	psychic: 'rgba(248,88,136,0.8)',
+	flying: 'rgba(168,144,240,0.8)',
+	fighting: 'rgba(192,48,40,0.8)',
+	normal: 'rgba(168,168,120,0.8)',
 };
 
 const main_types = Object.keys(colors);
@@ -32,6 +32,8 @@ const getPokemon = async (id) => {
 
 	createPokemonCard(data);
 };
+
+// @To-do Add ability for multiple types and have gradient background with colours
 
 const createPokemonCard = (pokemon) => {
 	const pokemonEl = document.createElement('div');
